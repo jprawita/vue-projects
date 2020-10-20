@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "998e6e7b21d98edd0258",
-    "url": "/vue-projects/css/about.3eb9bb9f.css"
+    "revision": "1e25ad7a83153a59f298",
+    "url": "/vue-projects/css/about.e88ea55c.css"
   },
   {
-    "revision": "ab84fa82e32483ff12f2",
+    "revision": "a3296bec9a255f84b832",
     "url": "/vue-projects/css/app.baa7402a.css"
   },
   {
@@ -20,8 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/Untitled-4.ee622311.jpg"
   },
   {
+    "revision": "b104ff959ae61ea1446f629fa0f4bce1",
+    "url": "/vue-projects/img/arknight.b104ff95.png"
+  },
+  {
     "revision": "e40d2d78b54f4b95c8107773e7410eea",
     "url": "/vue-projects/img/arknight.e40d2d78.jpg"
+  },
+  {
+    "revision": "f1f1b029be5c552703047951c5da6b58",
+    "url": "/vue-projects/img/bg-pizza-01.f1f1b029.png"
+  },
+  {
+    "revision": "a280d0dc6883c6199c809a8d1d5a0cf8",
+    "url": "/vue-projects/img/bg-pizza-02.a280d0dc.png"
   },
   {
     "revision": "ce3d82b6185e0bbf06e6d9a38ae52b9e",
@@ -72,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/class_vanguard.f6065869.png"
   },
   {
+    "revision": "5465842cfc84fc763e729acde5d126b1",
+    "url": "/vue-projects/img/david-benes.5465842c.png"
+  },
+  {
     "revision": "e8fc66875cf3dc483c6912c88efecdd3",
     "url": "/vue-projects/img/default-image.e8fc6687.jpg"
   },
@@ -112,6 +128,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/mockup-game-brawstart-1.91a97aa2.png"
   },
   {
+    "revision": "6b6b45ff9df46ccea68b0d18569087eb",
+    "url": "/vue-projects/img/resto-pizza-01.6b6b45ff.png"
+  },
+  {
+    "revision": "d47c29494309c5d6694e6b5497e3b3bd",
+    "url": "/vue-projects/img/resto-pizza-02.d47c2949.png"
+  },
+  {
+    "revision": "7e2c5cd254c3e66b8e05b104ba6e4bd6",
+    "url": "/vue-projects/img/resto-pizza-03.7e2c5cd2.png"
+  },
+  {
+    "revision": "3c88eda6bb41ef1f26fa76ef5187a56e",
+    "url": "/vue-projects/img/resto-unsplash-00.3c88eda6.jpg"
+  },
+  {
+    "revision": "0540955f5681940c48d8e4f2d4711d2d",
+    "url": "/vue-projects/img/resto-unsplash-01.0540955f.jpg"
+  },
+  {
+    "revision": "d06e3afb8a4f187e64a1898577af03d3",
+    "url": "/vue-projects/img/resto-unsplash-02.d06e3afb.jpg"
+  },
+  {
     "revision": "c814eee30921b447afca52cf67b1ffbc",
     "url": "/vue-projects/img/season-2.c814eee3.jpg"
   },
@@ -132,16 +172,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "bb50683831d77284d617c3fe809926c0",
+    "revision": "e35c88e97c559ed486039b910db7e88a",
     "url": "/vue-projects/index.html"
   },
   {
-    "revision": "998e6e7b21d98edd0258",
-    "url": "/vue-projects/js/about.051e24f4.js"
+    "revision": "1e25ad7a83153a59f298",
+    "url": "/vue-projects/js/about.05397c51.js"
   },
   {
-    "revision": "ab84fa82e32483ff12f2",
-    "url": "/vue-projects/js/app.d429c207.js"
+    "revision": "a3296bec9a255f84b832",
+    "url": "/vue-projects/js/app.a9304b7a.js"
   },
   {
     "revision": "fa74bfcaab1ffa751a54",
