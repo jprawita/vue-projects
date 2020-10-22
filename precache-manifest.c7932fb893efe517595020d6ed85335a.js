@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "8c6df21a0897521efd2739e3c62023b1",
+    "revision": "8c922cabae98c2dbcc36677dee6df709",
     "url": "/vue-projects/index.html"
   },
   {
@@ -188,7 +188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/js/chunk-vendors.67a539fd.js"
   },
   {
-    "revision": "1bd08574c165d2f9634a8da932f60637",
+    "revision": "e40a7c8d6f422d26156680b3ae214bdc",
     "url": "/vue-projects/manifest.json"
   },
   {
