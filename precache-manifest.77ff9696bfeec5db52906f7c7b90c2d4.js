@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5bd7c8b8dd488f8332c",
-    "url": "/vue-projects/css/about.be2ef7b7.css"
+    "revision": "1038a391ee751b9fb4e6",
+    "url": "/vue-projects/css/about.0c47ad95.css"
   },
   {
-    "revision": "21ac8c133fe317ee1652",
+    "revision": "64f19a578c4bb7298dba",
     "url": "/vue-projects/css/app.baa7402a.css"
   },
   {
-    "revision": "fa74bfcaab1ffa751a54",
+    "revision": "15fc6ce62ce491428132",
     "url": "/vue-projects/css/chunk-vendors.17997d7a.css"
   },
   {
@@ -124,8 +124,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/logo.63a7d78d.svg"
   },
   {
+    "revision": "b8e56f1c385fca832ab95d48c1863afd",
+    "url": "/vue-projects/img/logo.b8e56f1c.png"
+  },
+  {
     "revision": "91a97aa289eca45543b6de0ce6d6d443",
     "url": "/vue-projects/img/mockup-game-brawstart-1.91a97aa2.png"
+  },
+  {
+    "revision": "fc7d3155f65b3dbdae5a6a9faff93dd0",
+    "url": "/vue-projects/img/pepsi001.fc7d3155.png"
+  },
+  {
+    "revision": "671ffb98d7d965791a55949a584a96d1",
+    "url": "/vue-projects/img/pepsi002.671ffb98.png"
+  },
+  {
+    "revision": "6eeb577ec4105dfefee281723411e9e2",
+    "url": "/vue-projects/img/pepsi003.6eeb577e.png"
+  },
+  {
+    "revision": "f5a8dc087a322868419c34916f7db84e",
+    "url": "/vue-projects/img/pepsi3.f5a8dc08.png"
   },
   {
     "revision": "6b6b45ff9df46ccea68b0d18569087eb",
@@ -172,20 +192,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "8c922cabae98c2dbcc36677dee6df709",
+    "revision": "d95ae041f9a34caff432493c92aa955a",
     "url": "/vue-projects/index.html"
   },
   {
-    "revision": "b5bd7c8b8dd488f8332c",
-    "url": "/vue-projects/js/about.51b769a9.js"
+    "revision": "1038a391ee751b9fb4e6",
+    "url": "/vue-projects/js/about.97c9d273.js"
   },
   {
-    "revision": "21ac8c133fe317ee1652",
-    "url": "/vue-projects/js/app.4fa615f1.js"
+    "revision": "64f19a578c4bb7298dba",
+    "url": "/vue-projects/js/app.c64f9872.js"
   },
   {
-    "revision": "fa74bfcaab1ffa751a54",
-    "url": "/vue-projects/js/chunk-vendors.67a539fd.js"
+    "revision": "15fc6ce62ce491428132",
+    "url": "/vue-projects/js/chunk-vendors.438e4517.js"
   },
   {
     "revision": "e40a7c8d6f422d26156680b3ae214bdc",
