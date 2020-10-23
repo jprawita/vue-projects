@@ -12,6 +12,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/css/chunk-vendors.17997d7a.css"
   },
   {
+    "revision": "80a64abef58073d0d0ee9a2aeb8b6fa0",
+    "url": "/vue-projects/favicon_vp.ico"
+  },
+  {
     "revision": "5a1cf5b9c4f4cc3111acbe5925fe8fc1",
     "url": "/vue-projects/img/ArtPurestreamE1.5a1cf5b9.png"
   },
@@ -192,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "d95ae041f9a34caff432493c92aa955a",
+    "revision": "0985e649b72ae255bf5d294f0e713db4",
     "url": "/vue-projects/index.html"
   },
   {
@@ -208,7 +212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/js/chunk-vendors.438e4517.js"
   },
   {
-    "revision": "e40a7c8d6f422d26156680b3ae214bdc",
+    "revision": "5cb6d996084f69e14ca17b27a2ec781b",
     "url": "/vue-projects/manifest.json"
   },
   {
