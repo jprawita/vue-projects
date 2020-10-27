@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48dd42fa5c5b45e75edd",
-    "url": "/vue-projects/css/about.99535edb.css"
+    "revision": "3d9c75cb6bf94a2b072a",
+    "url": "/vue-projects/css/about.2b80f250.css"
   },
   {
-    "revision": "8a333f87c80d1baba77b",
+    "revision": "29f2be20aa16527b494c",
     "url": "/vue-projects/css/app.baa7402a.css"
   },
   {
@@ -236,16 +236,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "a60a3512d1ab89f6a4021711728fba00",
+    "revision": "d51296703aaaf1c518ded844e75b96be",
     "url": "/vue-projects/index.html"
   },
   {
-    "revision": "48dd42fa5c5b45e75edd",
-    "url": "/vue-projects/js/about.09f3d6e0.js"
+    "revision": "3d9c75cb6bf94a2b072a",
+    "url": "/vue-projects/js/about.7231ec74.js"
   },
   {
-    "revision": "8a333f87c80d1baba77b",
-    "url": "/vue-projects/js/app.fde2b2f4.js"
+    "revision": "29f2be20aa16527b494c",
+    "url": "/vue-projects/js/app.74d2179c.js"
   },
   {
     "revision": "f28830dbc3df0a32a499",
