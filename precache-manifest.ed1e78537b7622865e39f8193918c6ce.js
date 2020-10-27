@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1038a391ee751b9fb4e6",
-    "url": "/vue-projects/css/about.0c47ad95.css"
+    "revision": "48dd42fa5c5b45e75edd",
+    "url": "/vue-projects/css/about.99535edb.css"
   },
   {
-    "revision": "64f19a578c4bb7298dba",
+    "revision": "8a333f87c80d1baba77b",
     "url": "/vue-projects/css/app.baa7402a.css"
   },
   {
-    "revision": "15fc6ce62ce491428132",
-    "url": "/vue-projects/css/chunk-vendors.17997d7a.css"
+    "revision": "f28830dbc3df0a32a499",
+    "url": "/vue-projects/css/chunk-vendors.c3479ae2.css"
   },
   {
     "revision": "80a64abef58073d0d0ee9a2aeb8b6fa0",
@@ -136,6 +136,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/mockup-game-brawstart-1.91a97aa2.png"
   },
   {
+    "revision": "46f8c77fa1e1bd97e58942087de4ca06",
+    "url": "/vue-projects/img/nike-bag.46f8c77f.png"
+  },
+  {
+    "revision": "380bb9834ba6eaa04006067c67bc2e73",
+    "url": "/vue-projects/img/nike-jacket.380bb983.png"
+  },
+  {
+    "revision": "d98259f125e65450a57b4849dda7e172",
+    "url": "/vue-projects/img/nike-pants.d98259f1.png"
+  },
+  {
+    "revision": "cd0ea9b417701bed7f6296a554a7214f",
+    "url": "/vue-projects/img/nike-shoes-contact.cd0ea9b4.png"
+  },
+  {
+    "revision": "87094db7abf274db55e6930f781422dc",
+    "url": "/vue-projects/img/nike-shoes-feature.87094db7.png"
+  },
+  {
+    "revision": "f672605c7b660b8d4dadb829bf6027bf",
+    "url": "/vue-projects/img/nike-shoes-red-01.f672605c.png"
+  },
+  {
+    "revision": "672628d25faea197a0c088494a0a5b62",
+    "url": "/vue-projects/img/nike-shoes-red-02.672628d2.png"
+  },
+  {
+    "revision": "bbca91fd7fcf7660db895fcc90350cb2",
+    "url": "/vue-projects/img/nike-shoes-red-03.bbca91fd.png"
+  },
+  {
+    "revision": "42b54456e1e89cdc3276339c46dc133a",
+    "url": "/vue-projects/img/nike-shoes-red.42b54456.png"
+  },
+  {
+    "revision": "5cecfee2ba12a27d2ff80de4f5da384a",
+    "url": "/vue-projects/img/nike-t-shirt.5cecfee2.png"
+  },
+  {
     "revision": "fc7d3155f65b3dbdae5a6a9faff93dd0",
     "url": "/vue-projects/img/pepsi001.fc7d3155.png"
   },
@@ -196,20 +236,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "0985e649b72ae255bf5d294f0e713db4",
+    "revision": "a60a3512d1ab89f6a4021711728fba00",
     "url": "/vue-projects/index.html"
   },
   {
-    "revision": "1038a391ee751b9fb4e6",
-    "url": "/vue-projects/js/about.97c9d273.js"
+    "revision": "48dd42fa5c5b45e75edd",
+    "url": "/vue-projects/js/about.09f3d6e0.js"
   },
   {
-    "revision": "64f19a578c4bb7298dba",
-    "url": "/vue-projects/js/app.c64f9872.js"
+    "revision": "8a333f87c80d1baba77b",
+    "url": "/vue-projects/js/app.fde2b2f4.js"
   },
   {
-    "revision": "15fc6ce62ce491428132",
-    "url": "/vue-projects/js/chunk-vendors.438e4517.js"
+    "revision": "f28830dbc3df0a32a499",
+    "url": "/vue-projects/js/chunk-vendors.1f121b92.js"
   },
   {
     "revision": "5cb6d996084f69e14ca17b27a2ec781b",
