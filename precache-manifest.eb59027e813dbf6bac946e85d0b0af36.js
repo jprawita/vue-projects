@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a040f070cdb7edba7d95",
-    "url": "/vue-projects/css/about.c9403c67.css"
+    "revision": "d6904e514e3d50d9ede1",
+    "url": "/vue-projects/css/about.b16409de.css"
   },
   {
-    "revision": "14fc50fdf388f9ac2266",
-    "url": "/vue-projects/css/app.baa7402a.css"
+    "revision": "dc5783c8a1272f66fbe2",
+    "url": "/vue-projects/css/alert.06b39407.css"
   },
   {
-    "revision": "f28830dbc3df0a32a499",
-    "url": "/vue-projects/css/chunk-vendors.c3479ae2.css"
+    "revision": "64ef50cf160de7ac9f46",
+    "url": "/vue-projects/css/app.702f95e5.css"
   },
   {
-    "revision": "80a64abef58073d0d0ee9a2aeb8b6fa0",
-    "url": "/vue-projects/favicon_vp.ico"
+    "revision": "36406455208416763812",
+    "url": "/vue-projects/css/chunk-vendors.c01fea89.css"
   },
   {
     "revision": "5a1cf5b9c4f4cc3111acbe5925fe8fc1",
@@ -236,20 +236,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-projects/img/undraw_progressive_app_m9ms.cc51a96e.svg"
   },
   {
-    "revision": "c8e817988341700575a04857657f19b1",
+    "revision": "7fb0f27aadc9070b101da09b58603574",
     "url": "/vue-projects/index.html"
   },
   {
-    "revision": "a040f070cdb7edba7d95",
-    "url": "/vue-projects/js/about.c26df05f.js"
+    "revision": "d6904e514e3d50d9ede1",
+    "url": "/vue-projects/js/about.4ebdc6e0.js"
   },
   {
-    "revision": "14fc50fdf388f9ac2266",
-    "url": "/vue-projects/js/app.fe1ae34d.js"
+    "revision": "dc5783c8a1272f66fbe2",
+    "url": "/vue-projects/js/alert.cb75c086.js"
   },
   {
-    "revision": "f28830dbc3df0a32a499",
-    "url": "/vue-projects/js/chunk-vendors.1f121b92.js"
+    "revision": "64ef50cf160de7ac9f46",
+    "url": "/vue-projects/js/app.a9c6545b.js"
+  },
+  {
+    "revision": "36406455208416763812",
+    "url": "/vue-projects/js/chunk-vendors.de8f6ef3.js"
   },
   {
     "revision": "5cb6d996084f69e14ca17b27a2ec781b",
